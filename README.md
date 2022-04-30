@@ -1,2 +1,6 @@
 # massShootingAnalysis
-Jupyter Notebook 
+Jupyter Notebook
+Pandas
+Matplotlib
+WordCLoud
+
